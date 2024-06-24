@@ -229,6 +229,7 @@ nav {
     justify-content: center;
     list-style: none;
     gap: 30px;
+    margin-bottom: 30px;
     
 }
 
@@ -250,10 +251,13 @@ nav {
     margin-left: 350px;
     display: flex;
     
+    
+    
 }
 
 .form-footer {
     margin-bottom: 50px;
+    width: 100%;
 }
 
 .form-footer input {
@@ -291,11 +295,17 @@ nav {
 
 .rodape {
     display: flex;
+    max-width: 100%;
+   width: 100%;
+    
+    
+
 }
 
 .contato {
     margin-left: 400px;
     margin-top: 50px;
+    
 }
 
 .contato h3 {
@@ -314,9 +324,13 @@ nav {
     margin-top: 20px;
     font-family: "teko";
     font-size: 20px;
+    width: 100%;
 }
 
 
+
+
+   
 
 
 
