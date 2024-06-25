@@ -293,7 +293,7 @@ nav {
     font-size: 15px;
     border-right: none;
     cursor: pointer;
-    background-color: gray;
+    background-color:black;
     color: white;
 }
 
@@ -345,6 +345,9 @@ nav {
     margin-right: 12px;
 }
 
+.contato img:hover{
+    transform: translateY(-3px);
+}
 
 
 
